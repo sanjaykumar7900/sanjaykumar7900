@@ -5,18 +5,16 @@
 🌍 Who Am I?
 🧑‍🚀 Digital Explorer: Constantly navigating the universe of tech.
 🛠️ Code Alchemist: Turning caffeine into functional code.
-🎧 Lofi Enthusiast: Best ideas strike when the beats drop.
+🎧 Lofi Enthusiast: Best ideas strike when I play games. 
 📦 What’s in My Toolkit? 🛠️
 skills:
-  - Backend: Python, Node.js
-  - Frontend: React, Vue.js
-  - Database: PostgreSQL, MongoDB
+  - Backend: Python
+  - Database: PostgreSQL, MongoDB,MySQL
   - Tools: Docker, Git, VS Code
   - Learning: AI, Rust
 
 🎮 Current Quest:
 🏗️ Build innovative projects
-🚀 Collaborate on open-source initiatives
 📚 Share knowledge and learn every day
 
 
