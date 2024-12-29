@@ -1,44 +1,29 @@
+<h1 align="center">Hi 👋, I'm Sanjay Kumar</h1>
+<h3 align="center">🧑‍🚀 Digital Explorer: Constantly navigating the universe of tech</h3>
 
-🎩 Welcome to My Corner of the Internet! 🪄✨
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjaykumar7900" alt="sanjaykumar7900" /></a> </p>
 
-"Where imagination meets code and coffee fuels creativity." ☕
+- 🔭 I’m currently working on **Full stack development**
 
+- 🌱 I’m currently learning **Oracle, Ruby, Go**
 
-🌍 Who Am I?
-🧑‍🚀 Digital Explorer: Constantly navigating the universe of tech.
+- 📫 How to reach me **sanjaykumra121205@gmail.com**
 
-🛠️ Code Alchemist: Turning caffeine into functional code.
+- ⚡ Fun fact **Sometimes I fix bugs by staring at the code until it gets scared and works properly.**
 
-🎧 Lofi Enthusiast: Best ideas strike when I play games. 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sanjaykumar7900" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanjaykumar7900" height="30" width="40" /></a>
+<a href="https://instagram.com/known_as_sniper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="known_as_sniper" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sanjaykumar12121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sanjaykumar12121" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sanjaykumar7900" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanjaykumar7900" height="30" width="40" /></a>
+</p>
 
-📦 What’s in My Toolkit? 🛠️
-skills:
-  - Backend: Python
-  - Database: PostgreSQL, MongoDB,MySQL
-  - Tools: Docker, Git, VS Code
-  - Learning: AI, Rust
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> </p>
 
-🎮 Current Quest:
-🏗️ Build innovative projects
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjaykumar7900&show_icons=true&locale=en&layout=compact" alt="sanjaykumar7900" /></p>
 
-📚 Share knowledge and learn every day
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjaykumar7900&show_icons=true&locale=en" alt="sanjaykumar7900" /></p>
 
-
-🖥️ Fun Fact: Sometimes I fix bugs by staring at the code until it gets scared and works properly.
-
-
-🚀 Let’s Connect:
-https://www.instagram.com/known_as_sniper/profilecard/?igsh=MWp3ZTg5dzZjcHBxMw==
-https://www.linkedin.com/in/sanjay-kumar-ba44b030b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-
-🌟 "Code more, worry less, and let the creativity flow!" 🚀
-
-
-
-
-
-
-
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaykumar7900&" alt="sanjaykumar7900" /></p>
