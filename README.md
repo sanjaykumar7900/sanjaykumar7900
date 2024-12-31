@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Oracle, Ruby, Go**
 
-- 📫 How to reach me **sanjaykumra121205@gmail.com**
+- 📫 How to reach me **sanjaykumar121205@gmail.com**
 
 - ⚡ Fun fact **Sometimes I fix bugs by staring at the code until it gets scared and works properly.**
 
