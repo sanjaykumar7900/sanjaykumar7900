@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Full stack development**
 
-- 🌱 I’m currently learning **Oracle, Ruby, Go**
+- 🌱 I’m currently learning **SDET/QAQC**
 
 - 📫 How to reach me **sanjaykumar121205@gmail.com**
 
