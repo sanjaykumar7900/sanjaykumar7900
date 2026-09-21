@@ -1,29 +1,251 @@
-<h1 align="center">Hi 👋, I'm Sanjay Kumar</h1>
-<h3 align="center">🧑‍🚀 Digital Explorer: Constantly navigating the universe of tech</h3>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjaykumar7900" alt="sanjaykumar7900" /></a> </p>
+# 👋 Hey, I'm Sanjay Kumar
 
-- 🔭 I’m currently working on **Full stack development**
+### 🧪 QA Automation / SDET Aspirant • 💻 Developer • 🤖 AI + Testing Enthusiast
 
-- 🌱 I’m currently learning **SDET/QAQC**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Sanjay%20Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-- 📫 How to reach me **sanjaykumar121205@gmail.com**
+<br>
 
-- ⚡ Fun fact **Sometimes I fix bugs by staring at the code until it gets scared and works properly.**
+<a href="https://sanjisinventory.dpdns.org/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-2563EB?style=for-the-badge"/>
+</a>
+<a href="https://www.linkedin.com/in/sanjay-kumar-ba44b030b/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:sanjaykumar121205@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/sanjaykumar7900">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sanjaykumar7900" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanjaykumar7900" height="30" width="40" /></a>
-<a href="https://instagram.com/known_as_sniper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="known_as_sniper" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sanjaykumar12121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sanjaykumar12121" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sanjaykumar7900" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanjaykumar7900" height="30" width="40" /></a>
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+I'm a developer moving deeper into **QA Automation and Software Testing**, with a focus on building reliable software and automating repetitive testing workflows.
+
+I enjoy working at the intersection of:
+
+**Software Development × QA Automation × AI**
+
+```text
+🧪 Test      →      🔍 Find      →      🐛 Break      →      🔧 Fix      →      🚀 Improve
+```
+
+Currently exploring **Selenium, Java, Cucumber, API Testing, CI/CD, and AI-assisted QA**.
+
+---
+
+## ⚡ Tech Stack
+
+### 🧪 QA & Automation
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,selenium,postman,maven&theme=dark"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> </p>
+`Selenium` `Cucumber` `API Testing` `Postman` `Test Cases` `Bug Reports` `Automation Frameworks`
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjaykumar7900&show_icons=true&locale=en&layout=compact" alt="sanjaykumar7900" /></p>
+### 💻 Development
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjaykumar7900&show_icons=true&locale=en" alt="sanjaykumar7900" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,mongodb&theme=dark"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaykumar7900&" alt="sanjaykumar7900" /></p>
+### ⚙️ Tools & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,eclipse,linux&theme=dark"/>
+</p>
+
+---
+
+## 🤖 Featured Project
+
+<div align="center">
+
+# LISA
+
+### Autonomous QA Testing System
+
+**LISA** is my experimental AI-powered QA project focused on making software testing more autonomous.
+
+</div>
+
+### What LISA aims to do
+
+* 🔎 Analyze open-source projects
+* 🧪 Generate and execute test scenarios
+* 🐛 Detect potential defects
+* 📋 Generate structured QA reports
+* 📊 Analyze test results
+* 🤖 Explore AI-assisted testing workflows
+
+> **The goal:** Build a system that doesn't just run tests — it understands what it is testing.
+
+🔗 **Project:** Coming soon / currently under development
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sanjaykumar7900&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaykumar7900&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sanjaykumar7900&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjaykumar7900&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+</div>
+
+---
+
+## 🧠 Currently Learning
+
+<table>
+<tr>
+<td align="center" width="150">
+
+### 🧪
+
+**Automation**
+
+Selenium + Java
+
+</td>
+
+<td align="center" width="150">
+
+### 🔌
+
+**API Testing**
+
+Postman
+
+</td>
+
+<td align="center" width="150">
+
+### 🔄
+
+**CI/CD**
+
+GitHub Actions
+
+</td>
+
+<td align="center" width="150">
+
+### 🤖
+
+**AI + QA**
+
+LISA
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Highlights
+
+<div align="center">
+
+| 🏅 | Achievement                        |
+| -- | ---------------------------------- |
+| 🥇 | Gold Medal — Debugging Competition |
+| 💻 | Front-End Development Experience   |
+| 🧪 | QA Automation & Testing Projects   |
+| 🤖 | Building an AI-assisted QA system  |
+| 🌐 | Personal Developer Portfolio       |
+
+</div>
+
+---
+
+## 🎯 My Current Direction
+
+```text
+                 SOFTWARE ENGINEERING
+                         │
+            ┌────────────┴────────────┐
+            │                         │
+       DEVELOPMENT                TESTING
+            │                         │
+      Web Technologies         QA Automation
+            │                         │
+            └────────────┬────────────┘
+                         │
+                    🤖 AI + QA
+                         │
+                       LISA
+```
+
+My focus is becoming a **well-rounded QA Automation / SDET engineer** who understands both how software is built and how it can be tested, automated, and improved.
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://sanjisinventory.dpdns.org/">
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sanjay-kumar-ba44b030b/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sanjaykumar121205@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sanjaykumar7900">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/known_as_sniper">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭
+
+> **"Don't just test whether it works. Find out how it breaks."**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer"/>
+
+</div>
